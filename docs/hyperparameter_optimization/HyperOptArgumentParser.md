@@ -4,7 +4,7 @@
 
 The HyperOptArgumentParser is a subclass of python's
 [argparse](https://docs.python.org/3/library/argparse.html), with added
-finctionality to change parameters on the fly as determined by a
+functionality to change parameters on the fly as determined by a
 sampling strategy.
 
 You can instantiate an `HyperOptArgumentParser` via:
